@@ -1,2 +1,2 @@
-print("Hello World")
-Hello again
+import sys
+print(sys.executable)
